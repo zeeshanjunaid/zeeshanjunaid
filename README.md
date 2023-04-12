@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/zeexan2222" target="blank"><img src="https://img.shields.io/twitter/follow/zeexan2222?logo=twitter&style=for-the-badge" alt="zeexan2222" /></a> </p>
 
+- 🔭 I’m currently working on [upwork](https://www.upwork.com/freelancers/zeshanjunaid)
+
+- 🌱 I’m currently learning **three js, web3**
+
 - 👨‍💻 All of my projects are available at [https://zeeshanjunaid.com](https://zeeshanjunaid.com)
 
 - 💬 Ask me about **css, js, react, nextjs**
