@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Junaid</h1>
-<h3 align="center">A senior frontend developer from Islamabad</h3>
+<h3 align="center">A senior frontend developer from Dubai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshanjunaid&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshanjunaid" /> </p>
 
