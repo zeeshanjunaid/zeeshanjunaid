@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **three js, web3**
 
-- 👨‍💻 All of my projects are available at [https://zeeshanjunaid.com](https://zeeshanjunaid.com)
+- 👨‍💻 All of my projects are available at [https://zeeshanjunaid.com](https://zeeshanjunaid.dev)
 
 - 💬 Ask me about **css, js, react, nextjs**
 
