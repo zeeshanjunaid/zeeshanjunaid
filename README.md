@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanjunaid" alt="zeeshanjunaid" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/zeexan2222" target="blank"><img src="https://img.shields.io/twitter/follow/zeexan2222?logo=twitter&style=for-the-badge" alt="zeexan2222" /></a> </p>
-
-- 🔭 I’m currently working on [upwork](https://www.upwork.com/freelancers/zeshanjunaid)
+- 🔭 I’m currently working on [upwork](https://www.upwork.com/freelancers/zeeshanjunaid)
 
 - 🌱 I’m currently learning **three js, web3 and AI**
 
